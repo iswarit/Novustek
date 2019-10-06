@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Sumanjay</title>
+		<description>Blog and website of Sumanjay, blogging mainly for tech and share my writings. Opinions expressed are mine.</description>
+		<link>https://cyberboysumanjay.github.io</link>
+		<atom:link href="https://cyberboysumanjay.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>How to Dual Boot Windows and Linux!</title>
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;https://github.com/cyberboysumanjay/additional_files/raw/master/shots/dualboot.jpg&quot; alt=&quot;Dual Boot&quot; /&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 19 Aug 2017 00:00:00 +0000</pubDate>
+				<link>https://cyberboysumanjay.github.io/tech/2017/08/19/dualbooting-guide.html</link>
+				<guid isPermaLink="true">https://cyberboysumanjay.github.io/tech/2017/08/19/dualbooting-guide.html</guid>
+			</item>
+		
+			<item>
+				<title>Have you ever felt the pain?</title>
+				
+				
+					<description>&lt;p&gt;Have you ever felt the pain?&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+				<link>https://cyberboysumanjay.github.io/writings/2017/07/25/HYEFTP.html</link>
+				<guid isPermaLink="true">https://cyberboysumanjay.github.io/writings/2017/07/25/HYEFTP.html</guid>
+			</item>
+		
+	</channel>
+</rss>
